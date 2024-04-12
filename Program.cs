@@ -8,7 +8,9 @@
         public static double scale = 1.0;
         public static bool exitMainLoop = false;
 
-        
+        public static void Main(string[] args) {
+            
+        }
 
     }
 }
