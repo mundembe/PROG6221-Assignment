@@ -1,0 +1,14 @@
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\bin\Debug\net7.0\Part1.exe
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\bin\Debug\net7.0\Part1.deps.json
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\bin\Debug\net7.0\Part1.runtimeconfig.json
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\bin\Debug\net7.0\Part1.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\bin\Debug\net7.0\Part1.pdb
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\Part1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\Part1.AssemblyInfoInputs.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\Part1.AssemblyInfo.cs
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\Part1.csproj.CoreCompileInputs.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\Part1.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\refint\Part1.dll
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\Part1.pdb
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\Part1.genruntimeconfig.cache
+D:\MasimbaMundembe\Documents\RoseBank\PROG\Assignment1\Part1\obj\Debug\net7.0\ref\Part1.dll

@@ -1,0 +1,24 @@
+EXECUTION FLOW
+The application runs in the a loop contained in the main class(execution entry point).
+This loop contains a menu which directs the user on what action he/she can take.
+The user chooses an option by entering the number which corresponds to the choose in the menu.
+Selecting a action run the corresponding method which performs that action then return to the loop, where the user is again presented with the menu.
+
+STORING DATA
+The recipe's ingredients and steps are contained in a 2D and 1D array respectively.
+As the user inputs data, the arrays are updated, this data can then be recalled to display the recipe.
+
+SCALING QUANTITIES
+There is a global variable which is used to scale the proportions of the ingredients.
+This scale variable is multiplied to the quantities when the recipe is displayed.
+By default, the scale value is set to one, which represents the original proportions. It can be changed to 0.5, 1.5, or 3 in accordance to the user's request.
+
+RESETING QUANTITIES
+To reset the quantities of the ingredients, the scale variable is set to 1.
+
+CLEARING DATA
+To clear all data, the arrays containing the ingredients and steps are set to empty arrays.
+The global variable for the number of steps and ingredients are set to zero.
+
+EXITING THE APPLICATION
+To exit the application, the global loop control variable is set to true, which when presented to the main while loop results in a false expression. This causes the program execution to exit the main loop and terminates the application.
